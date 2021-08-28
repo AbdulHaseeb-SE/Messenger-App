@@ -1,0 +1,2 @@
+rootProject.name='Messaging_version_0.1'
+include ':app'
